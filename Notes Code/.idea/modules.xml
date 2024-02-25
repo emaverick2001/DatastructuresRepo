@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Notes Code.iml" filepath="$PROJECT_DIR$/.idea/Notes Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap01-starter/chap01-starter.iml" filepath="$PROJECT_DIR$/chap01-starter/chap01-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02-starter/chap02-starter.iml" filepath="$PROJECT_DIR$/chap02-starter/chap02-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02-starter-class/chap02-starter-class.iml" filepath="$PROJECT_DIR$/chap02-starter-class/chap02-starter-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap03-starter/chap03-starter.iml" filepath="$PROJECT_DIR$/chap03-starter/chap03-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap16-starter/chap16-starter.iml" filepath="$PROJECT_DIR$/chap16-starter/chap16-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap13-starter/src/main/main.iml" filepath="$PROJECT_DIR$/chap13-starter/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap13-starter 2/src/main/main1.iml" filepath="$PROJECT_DIR$/chap13-starter 2/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap14-solution/src/main/main10.iml" filepath="$PROJECT_DIR$/chap14-solution/src/main/main10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap07-solution/src/main/main11.iml" filepath="$PROJECT_DIR$/chap07-solution/src/main/main11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap06-starter/src/main/main12.iml" filepath="$PROJECT_DIR$/chap06-starter/src/main/main12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap12-starter/src/main/main13.iml" filepath="$PROJECT_DIR$/chap12-starter/src/main/main13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap13-solution/src/main/main14.iml" filepath="$PROJECT_DIR$/chap13-solution/src/main/main14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap11-starter/src/main/main15.iml" filepath="$PROJECT_DIR$/chap11-starter/src/main/main15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap07-starter/src/main/main16.iml" filepath="$PROJECT_DIR$/chap07-starter/src/main/main16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap17-starter/src/main/main2.iml" filepath="$PROJECT_DIR$/chap17-starter/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap14-starter 2/src/main/main3.iml" filepath="$PROJECT_DIR$/chap14-starter 2/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap07-starter 2/src/main/main4.iml" filepath="$PROJECT_DIR$/chap07-starter 2/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04-starter/src/main/main5.iml" filepath="$PROJECT_DIR$/chap04-starter/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap14-starter/src/main/main6.iml" filepath="$PROJECT_DIR$/chap14-starter/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap15-starter (1)/src/main/main7.iml" filepath="$PROJECT_DIR$/chap15-starter (1)/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap15-solution/src/main/main8.iml" filepath="$PROJECT_DIR$/chap15-solution/src/main/main8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap05-starter/src/main/main9.iml" filepath="$PROJECT_DIR$/chap05-starter/src/main/main9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap07-solution/src/test/test.iml" filepath="$PROJECT_DIR$/chap07-solution/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap12-starter/src/test/test1.iml" filepath="$PROJECT_DIR$/chap12-starter/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap14-starter/src/test/test10.iml" filepath="$PROJECT_DIR$/chap14-starter/src/test/test10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap06-starter/src/test/test11.iml" filepath="$PROJECT_DIR$/chap06-starter/src/test/test11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap15-solution/src/test/test12.iml" filepath="$PROJECT_DIR$/chap15-solution/src/test/test12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap17-starter/src/test/test13.iml" filepath="$PROJECT_DIR$/chap17-starter/src/test/test13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04-starter/src/test/test14.iml" filepath="$PROJECT_DIR$/chap04-starter/src/test/test14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap13-starter/src/test/test15.iml" filepath="$PROJECT_DIR$/chap13-starter/src/test/test15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap05-starter/src/test/test16.iml" filepath="$PROJECT_DIR$/chap05-starter/src/test/test16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap14-solution/src/test/test2.iml" filepath="$PROJECT_DIR$/chap14-solution/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap13-starter 2/src/test/test3.iml" filepath="$PROJECT_DIR$/chap13-starter 2/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap14-starter 2/src/test/test4.iml" filepath="$PROJECT_DIR$/chap14-starter 2/src/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap07-starter/src/test/test5.iml" filepath="$PROJECT_DIR$/chap07-starter/src/test/test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap11-starter/src/test/test6.iml" filepath="$PROJECT_DIR$/chap11-starter/src/test/test6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap13-solution/src/test/test7.iml" filepath="$PROJECT_DIR$/chap13-solution/src/test/test7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap07-starter 2/src/test/test8.iml" filepath="$PROJECT_DIR$/chap07-starter 2/src/test/test8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap15-starter (1)/src/test/test9.iml" filepath="$PROJECT_DIR$/chap15-starter (1)/src/test/test9.iml" />
+    </modules>
+  </component>
+</project>

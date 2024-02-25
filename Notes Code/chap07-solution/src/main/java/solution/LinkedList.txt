@@ -1,0 +1,2 @@
+The complete implementation of LinkedList is not provided here because you will need to implement some of these methods as part of HW2.
+Please refer to the lecture notes for partial implementations.
